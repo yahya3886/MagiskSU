@@ -1,0 +1,24 @@
+# Gradle
+.gradle/
+build/
+local.properties
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/libraries/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# OS
+.DS_Store
+*.log
+
+# Signing
+*.jks
+*.keystore
+keystore.properties

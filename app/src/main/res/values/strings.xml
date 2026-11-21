@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MagiskSU</string>
+    <string name="app_tagline">Root yöneticisi</string>
+    <string name="license_note">GPLv3 lisanslıdır</string>
+</resources>
